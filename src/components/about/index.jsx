@@ -15,15 +15,9 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+          Indie Game Developer | AR/VR Specialist | Aspiring Cloud Solution Architect
+
+          I’m an indie game developer driven by a deep passion for crafting immersive and interactive experiences. With expertise in Unity, Unreal Engine, and C#, I’ve developed a variety of games, including an endless penguin runner for Android and a cozy kitchen game for desktop. My work extends into AR and VR, where I’ve built innovative prototypes like stroke rehab tools, safety simulators, and interactive training apps. Currently, I’m pushing the boundaries of AR by developing interactive 3D models and realistic visual effects. As I grow, I’m also exploring cloud solutions to merge game development with scalable online experiences.
           </p>
         </ItemLayout>
 
