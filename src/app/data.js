@@ -24,6 +24,7 @@ export const projectsData = [
     date: "2025-01-15",
     demoLink: "https://sunny-kumar.itch.io/burger-king",
   },
+  
   {
     id: 2,
     name: "Penguine Runner",
@@ -36,7 +37,7 @@ export const projectsData = [
     name: "Rocket Boost",
     description: "Space shooting game",
     date: "2023-09-10",
-    demoLink: "https://github.com/sunny834/Rocket-Boost",
+    demoLink: "https://whimsical-faloodeh-2ed72e.netlify.app/",
   },
   {
     id: 4,
